@@ -1,6 +1,8 @@
 # Laser vs. Bubbles
 LASERS! It's a quick little canvas game, based on Asteroids.
 
+#### live site
+https://alexandraalday.github.io/lasers-vs-bubbles/
 
 #### technologies used
 HTML, CSS, JavaScript, jQuery, P5
