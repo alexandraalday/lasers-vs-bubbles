@@ -19,13 +19,3 @@ Pew! Pew! It's a quick little canvas game, based on Asteroids. Just some practic
 
 
 
-
-
-
-
-
-
-
-
-
-
